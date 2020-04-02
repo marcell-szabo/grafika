@@ -1,0 +1,10 @@
+﻿  Skeleton.cpp
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\framework.h(167,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\Skeleton.cpp(166,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\Skeleton.cpp(166,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\Skeleton.cpp(80,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\Skeleton.cpp(72): message : while compiling class template member function 'void Circle<100>::create(void)'
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\Skeleton.cpp(241): message : see reference to function template instantiation 'void Circle<100>::create(void)' being compiled
+C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\Skeleton\Skeleton.cpp(234): message : see reference to class template instantiation 'Circle<100>' being compiled
+  Skeleton.vcxproj -> C:\Users\Marcell Szabo\Documents\Egyetem\Számítógépes grafika\Programs\Skeleton\bin\Skeleton.exe
